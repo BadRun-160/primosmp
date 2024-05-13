@@ -1,2 +1,2 @@
-# legacies
-GitHub for the Legacies modpack
+# primosmp
+GitHub for the Primo SMP Modpack
