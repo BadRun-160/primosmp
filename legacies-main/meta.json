@@ -3,14 +3,14 @@
   "hotfixesFormat": null,
   "versions": [
     {
-      "id": "1.1.5",
-      "updateType": "major",
-      "releasedAt": 1705636619739
-    },
-    {
       "id": "1.1.0",
       "updateType": "major",
       "releasedAt": 1708244709340
+    },
+    {
+      "id": "1.1.5",
+      "updateType": "major",
+      "releasedAt": 1705636619739
     }
   ]
 }
