@@ -1,0 +1,22 @@
+Added following mods :
+
+Journeymap + FTB Chunks integration
+FTB Ranks
+Comforts
+Simple Shops
+Construction Wand
+Fantasy's Furniture
+Corail Tombstone
+Item Showcasing
+Lootr
+Alex's Mobs
+Pipez
+Upgraded Netherite
+Hourglass
+Better dogs + Doggy talents
+Embeddium
+
+Removed following mods :
+
+Rubidium
+
