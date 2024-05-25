@@ -1,0 +1,19 @@
+Added clientside mods : 
+
+- Embeddium++
+- FastSuite
+- Radon
+- Modernfix
+- Inventory Profiles Next
+- Notes
+- JustEnoughResources
+
+Removed clientside mods :
+
+- Fastbench
+- Fastfurnace
+
+Added serverside mods :
+
+- BadMobs
+- Cleardrops
