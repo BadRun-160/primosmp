@@ -3,54 +3,44 @@
   "hotfixesFormat": null,
   "versions": [
     {
-        "id": "1.1.0",
-        "releasedAt": 1714595228,
-    "updateType": "major",
+      "id": "1.1.5",
+      "updateType": "major",
+      "releasedAt": 1705636619739
         "promotions": {
-            "downloads": {
-                "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/primo-smp"
+           "downloads": {
+              "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/primo-smp",
             }
         }
     },
     {
-        "id": "1.1.5",
-        "releasedAt": 1714645579,
-    "updateType": "major",
-        "promotions": {
-            "downloads": {
-                "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/primo-smp"
+      "id": "1.2.0",
+      "updateType": "minor",
+      "releasedAt": 1705640463543
+           "downloads": {
+              "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/primo-smp",
             }
         }
     },
+    },
     {
-        "id": "1.2.0",
-        "releasedAt": 1714645579,
-    "updateType": "major",
-        "promotions": {
-            "downloads": {
-                "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/primo-smp"
+      "id": "1.2.1",
+      "updateType": "minor",
+      "releasedAt": 1705711269369
+           "downloads": {
+              "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/primo-smp",
             }
         }
     },
+    },
     {
-        "id": "1.2.1",
-        "releasedAt": 1714645579,
-    "updateType": "major",
-        "promotions": {
-            "downloads": {
-                "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/primo-smp"
+      "id": "2.0.0",
+      "updateType": "minor",
+      "releasedAt": 1706169159577
+           "downloads": {
+              "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/primo-smp",
             }
         }
     },
-    {
-        "id": "2.0.0",
-        "releasedAt": 1714645579,
-    "updateType": "major",
-        "promotions": {
-            "downloads": {
-                "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/primo-smp"
-            }
-        }
     }
   ]
 }
