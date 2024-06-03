@@ -21,6 +21,12 @@
       "id": "2.0.0",
       "updateType": "minor",
       "releasedAt": 1708244709340
+    "updateType": "minor",
+        "promotions": {
+            "downloads": {
+                "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/moonstrucks-rebirth/files/5282976"
+            }
+        }
     }
   ]
 }
