@@ -1,0 +1,11 @@
+Decreased simulation distance down to 6
+Increased view distance to 9
+Brought back ModernFix on the server
+Brought back Connectivity on the server
+Increased timing out from 60 to 120 seconds
+Added SecurityCraft
+Added Spartan shield and Spartan weapons
+Added Serene Seasons
+Added Crafting Tweaks
+Increased day and night length to 1 hour and 30 minutes (A full day is 3 hours long)
+Updated 13 mods
