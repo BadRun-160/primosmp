@@ -1,0 +1,20 @@
+Increased the duration of days and nights to 200 minutes
+Fixed the server’s deadlocks by removing The Quackening
+Fixed Compatibility Checker
+Removed Journeymap Team (Everyone is showing up on the JM now)
+Removed Bluemap for storage optimization (+6gb)
+Added Trash Slot
+Added Visual Workbench
+Added Item highlights
+Added TAB plugin and included server’s TPS in the playerlist
+Added Anvil Never Too Expensive
+Added Amendments 
+Added Dragonseeker
+Added Quark and dependencies 
+Added Quark Delight
+Added Quark and Aether compat
+Added Polymorph (Craft conflicts fixed)
+Added Protection Pixel
+Added Broken Bad 
+Updated 25 mods
+Updated clientside Forge to 47.3.3
