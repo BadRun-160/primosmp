@@ -1,0 +1,20 @@
+**-**  `Custom Player Model` has been removed.
+**-**  `Sitting+` has been removed.
+**-**  `Netherportalfix` has been removed.
+**-**  `ETF` and `EMF` have been removed.
+**-**  `Note` has been removed.
+**-**  Removed Create : `Additions` `1.2.4c`, installed `1.2.3` instead because of major issues coming with the update.
+**-**  Attempt to reduce lags for american players by changing network-compression-threshold from `512` to `256`.
+**-**  Made a new restart schedule. Server will now automatically restart only 1 time per day.
+
+**-**  Updated client to `Forge 47.3.5`
+**-**  Added `Spartan Weaponry: Ice and Fire`
+**-**  Added `Biomes O' Plenty and Create Rose Quartz Compat`
+**-**  Added `Spartan Toolkit`
+**-**  Added `Immersive Paintings`
+**-**  Added `Octolib` and `Relics`
+**-**  Added `MultiverseCore` and `Simple Scoreboard`
+**-**  Added `Deathcounter` 
+**-**  Brought back `Bluemap` but the map rendering will take some time to complete.
+**-**  Changed `FTBchunk`'s max amount of claim calculation method for teams. A team's max claim amount is now defined by the sum of all member's max claim amount.
+**-**  Fixed `Better Compatibility Checker` and `Modpack Update Checker`.
