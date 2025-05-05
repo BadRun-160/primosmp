@@ -1,0 +1,15 @@
+**Primo SMP 3 - Initial release**
+-------------------------------
+
+ISSUES ARE TO BE EXPECTED : REPORT ANY GLITCH, CRASHES OR LAGS YOU MIGHT ENCOUNTER ON THE DISCORD 
+
+-------------------------------
+
+**-** New Modpack
+**-** New world
+**-** Minor changes on the Discord
+**-** Weekly quests (FTBquest)
+
+I uselessly occupied IC3P3's server for months, therefore, I didn't want to ask him once again to use his server since I really lacked both motivation and time to open and maintain a server. Therefore, I am once again using the basic Oracle server. And because of that, we have limited storage and poor CPU performances. Hence, we cannot include some mods such as BlueMap on the server for now. But fear not ! If we feel the need to upgrade the server, I will pay with my own money for a good host this time.
+
+Enjoy your stay on the server
