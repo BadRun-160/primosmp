@@ -61,6 +61,11 @@
       "id": "3.0.0b",
       "updateType": "minor",
       "releasedAt": 1708248000000
+    },
+    {
+      "id": "3.0.1",
+      "updateType": "major",
+      "releasedAt": 1708248000000
     }
   ]
 }
