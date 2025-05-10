@@ -1,0 +1,16 @@
+Primo SMP 3.0.1 is now available
+
+Here a little summary of what I did :
+
+**+** Added Create:Broken Bad
+**+** Added Respawning Animal 
+**+** Added Discord Integration Forge by ErdbeerbaerLP
+**+** Increased Simulation-Distance and View-Distance from 10 to 12
+**+** Added Corpse Mod
+**-** Removed Happy Trail (Sprint FOV issue)
+**-** Removed Lightman's Discord Integration
+**-** Decreased Dragon's targeting range from 128 to 64 blocks
+**-** Decreased Dragon's wandering range from 40 to 20 blocks
+
+**A new modpack version (3.0.1) is available and is __mandatory__ to log into the server.**
+Please report any issue in the #❔┆support channel.
