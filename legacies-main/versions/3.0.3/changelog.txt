@@ -1,0 +1,18 @@
+- Added Iron Furnace
+- Added Create : Enchantment Industry
+- Added Create : Ender Transmission
+- Added Cosmetic Armour Reworked
+- Added Particular Reforged
+- Added Ember's Underground Rooms 
+- Added Small Ships
+- Added Instrument++
+- Added Spartan Shields
+- Added Spartan Weaponry : Twilight Forest
+
+- Updated several mods
+- Updated Forge to 47.4.1
+
+Serverside : 
+
+- Removed one of the two daily automatic restart
+
