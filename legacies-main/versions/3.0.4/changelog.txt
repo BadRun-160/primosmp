@@ -1,0 +1,11 @@
+Clientside :
+
+- Added Little Joys
+- Added Knight Quests 
+- Added Ars and mages
+- Removed BetterTitleScreen
+
+Serverside : 
+- Decreased RTS from 20 to 3 (Whoops)
+- Added Limit Mob Spawn
+- Added Leaky
